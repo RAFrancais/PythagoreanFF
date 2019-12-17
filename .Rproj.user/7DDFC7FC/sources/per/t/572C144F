@@ -5,21 +5,21 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "84677305",
+    "hash" : "3493169787",
     "id" : "572C144F",
-    "lastKnownWriteTime" : 1573700837,
-    "last_content_update" : 1573700837793,
+    "lastKnownWriteTime" : 1576573473,
+    "last_content_update" : 1576573473267,
     "path" : "D:/RLearning/PythagoreanFF/PythagoreanFF.R",
     "project_path" : "PythagoreanFF.R",
     "properties" : {
-        "cursorPosition" : "12,35",
-        "scrollLine" : "0",
+        "cursorPosition" : "65,0",
+        "scrollLine" : "51",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 2,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"
